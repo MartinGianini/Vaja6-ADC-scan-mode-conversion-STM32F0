@@ -1,5 +1,5 @@
 Vaja je bila narejena po starih navodilih z uporabo ploščice Discovery in ne Nucleo.
-Problem ni bil z vezavo, ali elementi, le to, da s ploščico Nucleo ta vaja ni mogoča.
+Problem ni bil z vezavo ali elementi, ampak je ploščica Nucleo neustrezna za to nalogo.
 
 2.)
 c) PC0
